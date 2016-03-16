@@ -1,0 +1,71 @@
+@charset "utf-8";
+
+.navbar-default{  height: 100px; } 
+ 
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus { color: #000;
+      background: #d65c14;}
+	  
+.navbar-default {background-color:#7fbf00;  border-color: #7fbf00; }
+
+.navbar-default .navbar-nav>li>a:hover { color:white; font-weight:bold; background:black;}
+
+.navbar-default .navbar-nav>li>a{ color:white; font-weight:bold; }
+ 
+.heading{font-size:25px; font-weight:bold; margin-bottom:23px; color:black; text-shadow: 4px 3px 6px #7fbf00;}
+
+.navbar-nav { margin-top: 20px;}
+
+.banner{padding:0; margin:0; }
+
+.navbar{margin-bottom:0px;}
+
+.content{margin-top:30px; }
+
+.box{ width:300px; height:400px;  float:left; margin:33px;}
+
+.picture{margin-bottom:20px; border:5px solid #7fbf00; border-radius:10px;}
+
+.text{font-family:open sans; font-weight:bold;}
+
+.programs{height:auto; border:10px solid #7fbf00; border-radius:54px; margin-bottom:30px;}
+
+.leftbar{ height:auto;}
+
+.rightbar{ height:auto;}
+
+.leftheading{font-size: 35px;line-height: 38px;padding: 33px 0 18px;text-shadow: 0 1px 2px #7fbf00; text-align:center;text-shadow: 4px 3px 6px #7fbf00;}
+
+.subheading{font-size: 20px;line-height: 24px;margin-bottom: 2px;display: inline-block;}
+
+.subheading a{text-decoration:none; color: #7fbf00;}
+
+.subheading a:hover{ color:#3F6;}
+
+.info{font-family: 'PT Serif Caption', serif;font-size: 14px;line-height: 24px;color: #343434; font-weight:bold;}
+
+.rightheadind{font-size: 20px;line-height: 24px; margin-top:0px;}
+
+.rightheadind a{text-decoration:none; color: #7fbf00;}
+
+.rightheadind a:hover{color:#3F6;}
+
+.social{margin:0 auto; width:355px; margin-top:30px; }
+
+.designby{margin-left:30px; font-weight:bold; font-family: 'PT Serif Caption', serif;    font-size: 17px;}
+
+.designby a{text-decoration:none;color:black;}
+
+.designby a:hover{color:white;}
+
+.boximg{width: 190px; float:left;margin-right: 48px;}
+
+.imgbox{border:5px solid #7fbf00; border-radius:15px;margin-top:30px; margin-bottom:30px;}
+
+.contentbox{margin-top:30px;}
+
+.imgcircl{float: left; width: 54px;background: #7fbf00;border-radius: 26px;-moz-border-radius: 26px; -webkit-border-radius: 26px; font-size: 45px;line-height: 48px;color: #fff;text-align: center;padding: 1px 0 5px;margin: 0 12px 18px 0;}
+
+.footer{height:100px; background:#7fbf00;}
+  
+
+
